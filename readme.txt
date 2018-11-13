@@ -6,4 +6,4 @@ ok,again to ajus
 adjust  this code
 <<<<<<< HEAD
 hhhhhhhhhhhsssssss
-
+ksldajfkjslajfdkasjdf
